@@ -5,7 +5,7 @@
 ## Education
 - M.S., Analytics | Geoorgia Institute of Technology (_May 2022)
 - M.S., Ocean Eng. | Stevens Institute of Technology (_May 2014)
-- M.S., Nav. Archit. | Huazhong Univ. of Science & Technology (_May 2012)
+- M.S., Nav. Archit. | Huazhong Univ. of Sci. & Tech. (_May 2012)
 - B.S., Nav. Archit. | Dalian University of Technology (_June 2009)
 
 ### Work Experience
