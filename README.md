@@ -12,5 +12,12 @@
 **Senior Research Engineer @ ABS (_June 2022 - Present_)**
 - Task 1
 - Task 2
+**Research Engineer @ ABS (_July 2014 - June 2022_)**
+- Task 1
+- Task 2
 
 ### Projects
+
+**Senior Research Engineer @ ABS (_June 2022 - Present_)**
+- Task 1
+- Task 2
