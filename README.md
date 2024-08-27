@@ -35,3 +35,10 @@
 - Created a tool to supplement Airbnb booking process
   - Performed sentiment analysis based on the 840k customer reviews to rate each unit's features (e.g., number of beds, location, cleanness, price)
   - Present the above aspect-based sentiment analysis results on Radar Chart to allow users to conduct a multi-dimensional comparison of selected features.
+
+## Certificate
+- [Machine Learning Engineering for Production (MLOps)](https://www.coursera.org/account/accomplishments/specialization/LJ8KY4TAQZ5W)
+- [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/users/yulinzhao-5398/credentials/2cecdfeb53f6d047?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Introduction to Git and GitHub](https://www.coursera.org/account/accomplishments/certificate/FPWPG6M9J2MQ)
+- [Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/S867LH9JASAC)
+- [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/SLM65RTVCWY7)
